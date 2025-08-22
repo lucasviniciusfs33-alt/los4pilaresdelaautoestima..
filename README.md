@@ -1,12 +1,4 @@
-# los4pilaresdelaautoestima..# Las 4 Claves del Amor Propio Elevado
 
-Bienvenida al proyecto de "Las 4 Claves del Amor Propio Elevado", creado por Sofía Esperanza, un recurso diseñado para empoderar a mujeres a transformar su autoestima y vivir una vida plena y auténtica. Este repositorio contiene la página de aterrizaje completa, incluindo o código HTML com funcionalidades interativas, e detalhes sobre o uso e a oferta.
-
-## Descripción
-Este proyecto ofrece un método revolucionario basado en cuatro pilares fundamentales: Autoconocimiento Profundo, Sanación de Heridas Emocionales, Construcción de Límites Sanos y Amor Propio Inquebrantable. A través de este enfoque, las usuarias pueden descubrir su potencial, sanar patrones tóxicos y construir una autoestima sólida. La página está optimizada para conversión, con diseño responsivo e interacciones modernas.
-
-## Contenido del Sitio
-A continuación, se muestra el contenido completo del sitio (`index.html`) y sus características principales:
 
 ```html
 <!DOCTYPE html>
